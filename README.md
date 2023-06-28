@@ -4,7 +4,6 @@
 
 I'm always ready to learn new technologies. Very dedicated to my work, feel free to contact for any questions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADmarcelat&layout=compact)
 
 ## Databases:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
