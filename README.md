@@ -1,10 +1,8 @@
-# Hi, I'm Adrien, apprentice engineer in electronical and computer Science
+# Hi, I'm Adrien, IoT apprentice Engineer
 
 
-I'm always ready to learn new technologies. Very dedicated to my work, feel free to contact for any questions.
-
-
-
+Therefore, naturally curious, I am always looking to learn new technologies.
+Very dedicated to my work, feel free to contact for any questions.
 
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
