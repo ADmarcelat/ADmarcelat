@@ -1,6 +1,5 @@
 # Hi, I'm Adrien, apprentice engineer in electronical and computer Science
 
-![Adrien MARCELAT](https://user-images.githubusercontent.com/100051236/233578116-95912567-392e-4067-b270-17eef0d07688.png)
 
 I'm always ready to learn new technologies. Very dedicated to my work, feel free to contact for any questions.
 
