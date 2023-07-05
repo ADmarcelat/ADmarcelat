@@ -1,7 +1,7 @@
 # Hi, I'm Adrien, IoT apprentice Engineer
 
 
-Therefore, naturally curious, I am always looking to learn new technologies.
+Naturally curious, I am always looking to learn new technologies.
 Very dedicated to my work, feel free to contact for any questions.
 
 ## Languages:
