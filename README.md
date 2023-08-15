@@ -1,4 +1,4 @@
-# Hi, I'm Adrien, IoT apprentice Engineer
+# Hi, I'm Adrien, IoT and embedded system apprentice Engineer 😀
 
 
 Naturally curious, I am always looking to learn new technologies.
