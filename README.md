@@ -2,7 +2,7 @@
 
 
 Naturally curious, I am always looking to learn new technologies.
-Very dedicated to my work, feel free to contact for any questions.
+Very dedicated to my work, feel free to reach me out.
 
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
